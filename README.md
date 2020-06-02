@@ -1,2 +1,0 @@
-# Quizapp
-Created with CodeSandbox
